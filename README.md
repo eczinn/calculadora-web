@@ -1,2 +1,3 @@
 # calculadora-web
-Calculadora cria com HTLM, CSS E JS puro
+Calculadora criada com HTLM5, CSS3 E JS puro
+
